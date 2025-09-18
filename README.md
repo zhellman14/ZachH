@@ -1,3 +1,2 @@
-git init
-git add README.md
-git commit -m "initial commit"
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zhellman14/ZachHW1.git/HEAD)
+
